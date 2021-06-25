@@ -1,0 +1,2 @@
+01-introduction.ipynb:90010: [redirected with Found] https://www.freebsd.org/doc/en/articles/mailing-list-faq/etiquette.html to https://docs.freebsd.org/en/articles/mailing-list-faq/#etiquette
+15-visualising-data.ipynb:400013: [redirected with See Other] https://www.youtube.com/vpythonvideos to https://www.youtube.com/user/VPythonVideos
