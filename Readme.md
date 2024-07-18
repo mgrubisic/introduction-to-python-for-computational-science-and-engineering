@@ -2,6 +2,7 @@
 <!-- markdown-link-check-disable -->
 <!-- TODO: Enable this AFTER first merge and deploy to master! -->
 ![Book Deploy](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/workflows/Book%20Deploy/badge.svg)
+[![nbval in repo2docker container](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/actions/workflows/binder-nbval.yml/badge.svg)](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/actions/workflows/binder-nbval.yml) [![nbval](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/actions/workflows/nbval.yml/badge.svg)](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/actions/workflows/nbval.yml)
 <!-- markdown-link-check-enable -->
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1411868.svg)](https://doi.org/10.5281/zenodo.1411868)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -13,7 +14,7 @@
 </a>
 
 An Introduction to Python for Computational Science and Engineering, developed
-by Hans Fangohr (2003-2021).
+by Hans Fangohr since 2003.(2003-2024).
 
 The content and methods taught are intended for a target audience of scientists
 and engineers who need to use computational methods and data processing in their
@@ -119,10 +120,12 @@ and schools. Please send a message to the author if you do so.
 
 Hans Fangohr is a researcher and teacher (see
 [homepage](https://fangohr.github.io), [blog](https://fangohr.github.io/blog),
-[twitter](https://twitter.com/ProfCompMod)). His interests include effective
+[mastodon](https://fosstodon.org/@ProfCompMod)). His interests include effective
 software engineering for computational science and data science, researching
 computational modelling and data analysis methods, and education. He is a
+<!-- markdown-link-check-disable -->
 Professor at the [University of Southampton (UK)](https://www.southampton.ac.uk)
+<!-- markdown-link-check-enable -->
 and Head of the Scientific Support Unit for Computational Science at the  [Max Planck Institute for Structure and Dynamics of Matter (Germany)](https://www.mpsd.mpg.de/research/ssus/comput-science).
 
 ----
